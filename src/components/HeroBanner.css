@@ -1,0 +1,27 @@
+/* .title{
+    color: #FF2625;
+    font-weight:900;
+    font-size: 26px;
+} */
+
+/* .quote{
+    color: #FF2625;
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.caption{
+    color: #FF2625;
+    font-weight: 600;
+    font-size: 26px;
+} */
+
+.button{
+    font-size: 15px;
+    background-color: #FF2625;
+    color: white;
+    width: 150px;
+    height: 28px;
+    border-radius: 8px;
+    margin-left: 0px;
+}
